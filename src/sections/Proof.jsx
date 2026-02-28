@@ -16,10 +16,10 @@ const ITEMS = [
     title: "Freelance Landing (this build)",
     bullets: ["React + Vite", "Formspree contact", "Smooth-scroll navigation"],
     note: "Conversion-focused single-page template.",
-    // links: {
-    //   live: "https://YOUR-LIVE-LINK.com",
-    //   code: "https://github.com/YOUR-USER/freelance-landing",
-    // },
+    links: {
+      live: "https://client-landing-site.vercel.app/",
+      code: "https://github.com/justjones/client-landing-site",
+    },
   },
   {
     title: "Movie Hub (in progress)",
