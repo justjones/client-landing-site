@@ -58,12 +58,14 @@ No backend. Clean structure. QA-driven implementation.
 
 ## 📊 Performance & Quality
 
-Tested using Chrome Lighthouse (Desktop mode):
+Validated using Chrome Lighthouse (Desktop):
 
 - Performance: 90+
 - Accessibility: 100
 - Best Practices: 100
 - SEO: 90+
+
+Measured on production deployment.
 
 ---
 
