@@ -5,6 +5,7 @@ import Button from "./Button.jsx";
 const NAV_ITEMS = [
   { label: "Services", href: "#services" },
   { label: "Process", href: "#process" },
+  { label: "Engineering", href: "#engineering" },
   { label: "Work", href: "#proof" },
   { label: "Packages", href: "#pricing" },
   { label: "FAQ", href: "#faq" },

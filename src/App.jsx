@@ -9,6 +9,7 @@ import Pricing from "./sections/Pricing.jsx";
 import FAQ from "./sections/FAQ.jsx";
 import Contact from "./sections/Contact.jsx";
 import Footer from "./sections/Footer.jsx";
+import Engineering from "./sections/Engineering.jsx";
 
 export default function App() {
   useRevealOnScroll(".reveal");
@@ -25,6 +26,7 @@ export default function App() {
         <TrustBar />
         <Services />
         <Process />
+        <Engineering />
         <Proof />
         <Pricing />
         <FAQ />
