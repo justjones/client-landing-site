@@ -632,3 +632,7 @@ img {
     transition: none;
   }
 }
+
+.engineering .card {
+  box-shadow: none;
+}
