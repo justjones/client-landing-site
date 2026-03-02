@@ -1,3 +1,12 @@
+## 🏷 Current Release
+
+**v1.0.0 – Initial Production Release**
+
+- Stable deployable build
+- Lighthouse-tested performance and accessibility
+- Version tagged and documented
+- Live on Vercel
+
 # Lori Jones – Frontend Freelance Landing Site
 
 Single-page marketing website built with **React + Vite**, designed for Freelancer client conversion with a conservative, professional tone.
